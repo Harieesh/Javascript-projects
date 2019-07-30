@@ -1,0 +1,16 @@
+#shape{
+   	width:200px;
+   	height:200px;
+   	background-color: green;
+   	display:none;
+   	position: relative;
+   }
+
+   body{
+        font-family: Arial;
+
+   }
+   #ship{
+        font-family: Arial;
+        font-weight: bold;
+   }
